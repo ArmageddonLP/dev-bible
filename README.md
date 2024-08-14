@@ -1,4 +1,4 @@
 # dev-bible
-## [devops](devops/devops.md)
-## [dev](dev/dev.md)
-## [apps](apps/apps.md)
+## [devops](devops.md)
+## [dev](dev.md)
+## [apps](apps.md)

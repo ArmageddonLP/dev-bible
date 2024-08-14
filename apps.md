@@ -1,4 +1,4 @@
 |name|documentation|sla|
 |----------|----------|-----|
-|Ruedi| [Ruedi](ruedi/ruedi.md)|2h|
+|Ruedi| [Ruedi](apps/ruedi.md)|2h|
 |...|...|...|
